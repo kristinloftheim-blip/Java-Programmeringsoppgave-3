@@ -4,13 +4,165 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e9c0876-38b8-421b-b76d-7e52c75dab08" name="Changes" comment="" />
+    <list default="true" id="5e9c0876-38b8-421b-b76d-7e52c75dab08" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_13_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_13_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_13_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_13_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_3_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dat100-javainnlevering3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/no/hvl/dat100/oppgave1/Innlegg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/no/hvl/dat100/oppgave1/Innlegg.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3Lb25lo5Qi5wPLsb2xZ0K1Vajjy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.TestInnlegg.testConstructor1.executor": "Run",
+    "JUnit.TestInnlegg.testConstructor2.executor": "Run",
+    "JUnit.TestInnlegg.testLik.executor": "Run",
+    "JUnit.TestInnlegg.testSet.executor": "Run",
+    "JUnit.TestInnlegg.testdoLike.executor": "Run",
+    "JUnit.TestInnlegg.testtoString.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "kristin",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.TestInnlegg.testtoString">
+    <configuration name="TestInnlegg.testConstructor2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dat100-javainnlevering3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat100.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat100.tests" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat100.tests.TestInnlegg" />
+      <option name="METHOD_NAME" value="testConstructor2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestInnlegg.testLik" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dat100-javainnlevering3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat100.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat100.tests" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat100.tests.TestInnlegg" />
+      <option name="METHOD_NAME" value="testLik" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestInnlegg.testSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dat100-javainnlevering3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat100.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat100.tests" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat100.tests.TestInnlegg" />
+      <option name="METHOD_NAME" value="testSet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestInnlegg.testdoLike" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dat100-javainnlevering3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat100.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat100.tests" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat100.tests.TestInnlegg" />
+      <option name="METHOD_NAME" value="testdoLike" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestInnlegg.testtoString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dat100-javainnlevering3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat100.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="no.hvl.dat100.tests" />
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat100.tests.TestInnlegg" />
+      <option name="METHOD_NAME" value="testtoString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestInnlegg.testtoString" />
+        <item itemvalue="JUnit.TestInnlegg.testLik" />
+        <item itemvalue="JUnit.TestInnlegg.testdoLike" />
+        <item itemvalue="JUnit.TestInnlegg.testSet" />
+        <item itemvalue="JUnit.TestInnlegg.testConstructor2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-34e2839f716b-intellij.indexing.shared.core-IU-262.9437.185" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.9437.185" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e9c0876-38b8-421b-b76d-7e52c75dab08" name="Changes" comment="" />
+      <created>1793708270798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793708270798</updated>
+    </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
